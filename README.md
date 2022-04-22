@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Danil</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Danil</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilKokorin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
